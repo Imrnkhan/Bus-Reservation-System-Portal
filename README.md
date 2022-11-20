@@ -35,12 +35,12 @@
     * Only logged in user can access his reservations, profile updation and other features.
 
 ## Contributors
-
+<!-- 
 * [@Adarsh Khatri](https://github.com/AdarshKhatri1)
 * [@Brajkishor Tomar](https://github.com/BKS2315)
 * [@Vinay Kumar](https://github.com/vinaykumar2n)
 * [@Pintu Kumar](https://github.com/pintu903)
-* [@Sudarshan Chavan](https://github.com/Sudarshan2530)
+* [@Sudarshan Chavan](https://github.com/Sudarshan2530) -->
 
 ## Installation & Run
 
